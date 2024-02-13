@@ -18,8 +18,6 @@ Conducted between December 8, 2022, and December 19, 2022, the project involved 
 - **Model Training**: Achieved 92% accuracy in classifying bottle cap colors and deformation types using an SGDClassifier on the test set, ensuring reliable automated quality control.
 - **Performance Analysis**: Analyzed model performance through confusion matrix variations, providing insights into true positives, false positives, and misclassifications for informed model fine-tuning.
 
-## Getting Started
-
 ### Google Colab Link
 
 Access the Google Colab notebook for this project [here](https://colab.research.google.com/drive/1h6zOYQHEfPL3kpPeBVRaaiUAOssEqPXT?usp=sharing).
