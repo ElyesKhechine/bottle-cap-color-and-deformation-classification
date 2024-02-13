@@ -1,7 +1,5 @@
 # Bottle Cap Color and Deformation Classification
 
-### Project conducted by Elyes Khechine, Racem Ghorbel, and team members
-
 **Technologies:** Python, NumPy, OpenCV, scikit-learn, scikit-image, Keras, pandas, joblib, Matplotlib Pyplot, SGDClassifier
 
 ## Introduction
